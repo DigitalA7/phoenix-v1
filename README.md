@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré au carnet d’ordres Phoenix, à la priorité des ordres, au règlement atomique et aux contrôles de sécurité. Voir [le sommaire](docs/fr/README.md).
+
 # phoenix
 
 Phoenix Legacy is an on-chain orderbook that operates without a crank.
